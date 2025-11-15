@@ -1,4 +1,4 @@
-## 🏔️ More projects on [Codeberg](https://codeberg.org/)
+## 🏔️ More projects on [Codeberg](https://codeberg.org/mrrfv)
 
 - [Midday Caffeine](https://codeberg.org/mrrfv/midday-caffeine): Keep your system awake based on activity metrics (CPU, network, disk) and running processes.
 
